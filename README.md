@@ -13,7 +13,7 @@ Conseguimos juntar essa informação na tabela abaixo, nela podemos observar que
 
 Atributos para calcular a energia de Fermi:
 
-![Texto alternativo]([https://github.com/Karl-Marcos/ML-2022-DIMP/blob/main/imagens/atributos_energia_fermi.png](https://github.com/isadoramarcondes/Aprendizado-de-maquinas-para-oxido-de-grafeno/blob/main/Imagens/correl_fermi.png)
+![Texto alternativo](https://github.com/isadoramarcondes/Aprendizado-de-maquinas-para-oxido-de-grafeno/blob/main/Imagens/correl_fermi.png)
 
 Atributos para calcular a energia por átomo:
 
